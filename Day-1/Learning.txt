@@ -1,0 +1,6 @@
+In Day 1/100 of Learning to code python, here's what I learned:
+
+1. Using the "print" statement, by following the proper syntex
+
+print("Txt here") when you need to print a single line
+print("""Txt here""") when you need to print an entire paragrapph with its own formating.
